@@ -1,0 +1,11 @@
+# OS and editor artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# Local logs and test files
+*.log
+.test_*
